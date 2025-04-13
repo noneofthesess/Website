@@ -77,7 +77,7 @@
 ---
 
 ### 💳 BharatPe UPI Deposit
-<img src="https://i.imgur.com/bMHGaE5.png" width="400"/>
+<img src="https://i.ibb.co/ynP40W1B/Screenshot-2025-0413-175324.jpg" width="400"/>
 
 ---
 
