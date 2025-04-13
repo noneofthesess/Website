@@ -66,6 +66,52 @@
 
 ## 🧾 Screenshots
 
+---
+
+### 📱 User Dashboard
+
+1️⃣ **Balance Overview + Actions**  
+<img src="https://i.ibb.co/v41N7dPd/Polish-20250413-180004610.jpg" width="400"/>
+
+2️⃣ **Referral & Wallet Quick Access**  
+<img src="https://i.ibb.co/example-user-dashboard2.jpg" width="400"/>
+
+---
+
+### 📈 SMM Services Panel
+
+1️⃣ **Select View/Reaction Type**  
+<img src="https://i.ibb.co/6RQ39WrM/Polish-20250413-181707379.jpg" width="400"/>
+
+2️⃣ **Submit Link + Quantity**  
+<img src="https://i.ibb.co/example-order2.jpg" width="400"/>
+
+3️⃣ **Success Confirmation**  
+<img src="https://i.ibb.co/example-order3.jpg" width="400"/>
+
+---
+
+### 💳 BharatPe UPI Deposit
+
+1️⃣ **Scan QR Code via UPI App**  
+<img src="https://i.ibb.co/ynP40W1B/Screenshot-2025-0413-175324.jpg" width="400"/>
+
+2️⃣ **Auto Verification of Payment**  
+<img src="https://i.ibb.co/example-qr-success.jpg" width="400"/>
+
+3️⃣ **Deposit Confirmation Message**  
+<img src="https://i.ibb.co/example-balance-update.jpg" width="400"/>
+
+---
+
+### 🛠 Admin Panel Setup
+
+1️⃣ **Admin Settings for Bonuses, Limits & QR**  
+<img src="https://i.ibb.co/ntP80mg/Polish-20250413-182721014.jpg" width="400"/>
+
+2️⃣ **API Keys, Force Join, Referral Settings**  
+<img src="https://i.ibb.co/example-admin2.jpg" width="400"/>
+
 ### 📱 User Dashboard
 <img src="https://i.ibb.co/v41N7dPd/Polish-20250413-180004610.jpg" width="400"/>
 
