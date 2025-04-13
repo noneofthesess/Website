@@ -117,27 +117,6 @@
 
 ---
 
-### 📈 Order SMM Services
-<img src="https://i.ibb.co/6RQ39WrM/Polish-20250413-181707379.jpg" width="400"/>
-
----
-
-### 💳 BharatPe UPI Deposit
-<img src="https://i.ibb.co/ynP40W1B/Screenshot-2025-0413-175324.jpg" width="400"/>
-
----
-
-### 🛠 Admin Panel Setup
-<img src="https://i.ibb.co/ntP80mg/Polish-20250413-182721014.jpg" width="400"/>
-
-> Admins can configure bot behavior using a visual panel:
-- Set API keys, bonus rules, withdrawal limits
-- Paste SMM Panel API key, BharatPe Token, QR Image Link
-- Add Service IDs for views & reactions
-- Manage force-join channels, referral bonus, and more
-
----
-
 ## ⚙️ Technologies Used
 
 - `Bots.Business` — Scripting platform for Telegram bots  
