@@ -67,7 +67,7 @@
 ## 🧾 Screenshots
 
 ### 📱 User Dashboard
-<img src="https://ibb.co/Wvnrbzyz" width="400"/>
+<img src="https://i.ibb.co/v41N7dPd/Polish-20250413-180004610.jpg" width="400"/>
 
 ---
 
