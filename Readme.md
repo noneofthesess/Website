@@ -67,7 +67,7 @@
 ## 🧾 Screenshots
 
 ### 📱 User Dashboard
-<img src="https://i.imgur.com/jYq9Stf.png" width="400"/>
+<img src="https://ibb.co/Wvnrbzyz" width="400"/>
 
 ---
 
