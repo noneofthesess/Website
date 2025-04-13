@@ -112,9 +112,6 @@
 2️⃣ **API Keys, Force Join, Referral Settings**  
 <img src="https://i.ibb.co/example-admin2.jpg" width="400"/>
 
-### 📱 User Dashboard
-<img src="https://i.ibb.co/v41N7dPd/Polish-20250413-180004610.jpg" width="400"/>
-
 ---
 
 ## ⚙️ Technologies Used
