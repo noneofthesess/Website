@@ -72,7 +72,7 @@
 ---
 
 ### 📈 Order SMM Services
-<img src="https://i.imgur.com/v0oDE8X.png" width="400"/>
+<img src="https://i.ibb.co/6RQ39WrM/Polish-20250413-181707379.jpg" width="400"/>
 
 ---
 
@@ -82,7 +82,7 @@
 ---
 
 ### 🛠 Admin Panel Setup
-<img src="https://i.imgur.com/your_admin_panel_image.png" width="400"/>
+<img src="https://i.ibb.co/YFnYH6s2/Screenshot-2025-0413-181832.jpg" width="400"/>
 
 > Admins can configure bot behavior using a visual panel:
 - Set API keys, bonus rules, withdrawal limits
