@@ -71,10 +71,10 @@
 ### 📱 User Dashboard
 
 1️⃣ **Balance Overview + Actions**  
-<img src="https://i.ibb.co/v41N7dPd/Polish-20250413-180004610.jpg" width="400"/>
+<img src="https://i.ibb.co/PsNJQ9Vr/Polish-20250413-184621548.jpg" width="400"/>
 
 2️⃣ **Referral & Top Refer list**  
-<img src="https://i.ibb.co/example-user-dashboard2.jpg" width="400"/>
+<img src="https://i.ibb.co/JWWrT9k3/Polish-20250413-184711523.jpg" width="400"/>
 
 ---
 
@@ -91,15 +91,15 @@
 ### 🛠 Admin Panel Setup
 
 1️⃣ **Admin Panel in bot**  
-<img src="https://i.ibb.co/ntP80mg/Polish-20250413-182721014.jpg" width="400"/>
+<img src="https://i.ibb.co/bMwqcx91/Screenshot-2025-0413-181832.jpg" width="400"/>
 
 2️⃣ **Admin Panel - API Keys, Force Join, Referral Settings**  
-<img src="https://i.ibb.co/example-admin2.jpg" width="400"/>
+<img src="https://i.ibb.co/Z183QMsh/Polish-20250413-185012315.jpg" width="400"/>
 
 ---
 
 ### 👤 Live Chat Support
-<img src="https://i.ibb.co/bMwqcx91/Screenshot-2025-0413-181832.jpg" width="400"/>
+<img src="https://i.ibb.co/0yMKJy04/Polish-20250413-185910749.jpg" width="400"/>
 
 ---
 
