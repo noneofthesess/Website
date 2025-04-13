@@ -82,7 +82,7 @@
 ---
 
 ### 🛠 Admin Panel Setup
-<img src="https://i.ibb.co/YFnYH6s2/Screenshot-2025-0413-181832.jpg" width="400"/>
+<img src="https://i.ibb.co/ntP80mg/Polish-20250413-182721014.jpg" width="400"/>
 
 > Admins can configure bot behavior using a visual panel:
 - Set API keys, bonus rules, withdrawal limits
